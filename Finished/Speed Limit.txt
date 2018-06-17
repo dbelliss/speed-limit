@@ -1,0 +1,12 @@
+Speed Limit
+-----------
+
+Team Members: Davy, Joshua, Thomas
+
+Description: Drive the car to the finish line at max speed to go to the next level. Following levels gets harder. Beat all levels to win the game. Go over boost
+    pads to build the boost meter and avoid obstacles that decrease the boost meter. At max boost run into obstacles to increase
+    score.
+
+Game Controls: Up Arrow and Down Arrow
+
+Credit: All Original

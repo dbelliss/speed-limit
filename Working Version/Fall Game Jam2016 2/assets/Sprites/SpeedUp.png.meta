@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: e6004f5d61281fb4a8757467cb98b99a
+timeCreated: 1475979077
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpeedUp_0
+    21300002: SpeedUp_1
+    21300004: SpeedUp_2
+    21300006: SpeedUp_3
+    21300008: SpeedUp_4
+    21300010: SpeedUp_5
+    21300012: SpeedUp_6
+    21300014: SpeedUp_7
+    21300016: SpeedUp_8
+    21300018: SpeedUp_9
+    21300020: SpeedUp_10
+    21300022: SpeedUp_11
+    21300024: SpeedUp_12
+    21300026: SpeedUp_13
+    21300028: SpeedUp_14
+    21300030: SpeedUp_15
+    21300032: SpeedUp_16
+    21300034: SpeedUp_17
+    21300036: SpeedUp_18
+    21300038: SpeedUp_19
+    21300040: SpeedUp_20
+    21300042: SpeedUp_21
+    21300044: SpeedUp_22
+    21300046: SpeedUp_23
+    21300048: SpeedUp_24
+    21300050: SpeedUp_25
+    21300052: SpeedUp_26
+    21300054: SpeedUp_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpeedUp_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_9
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_10
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 840
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_19
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_23
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 456
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 66
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpeedUp_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 114
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
