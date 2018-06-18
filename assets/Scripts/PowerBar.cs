@@ -13,6 +13,10 @@ public class PowerBar : MoveRight {
     public GameObject pointText;
     private Text points;
     private int score;
+
+    AudioSource[] sounds;
+    const int collisionSound = 0;
+    const int speedBoostSound = 1;
     // Use this for initialization
     void Start() {
         powerSlider.value = 0;
@@ -22,6 +26,7 @@ public class PowerBar : MoveRight {
         IsMaxPower = false;
         animator = GetComponent<Animator>();
         points = pointText.GetComponent<Text>();
+        sounds = GetComponents<AudioSource> ();
     }
 
     // Update is called once per frame
@@ -48,29 +53,37 @@ public class PowerBar : MoveRight {
         {
             if (other.gameObject.CompareTag("Finish"))
             {
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
             if (other.gameObject.tag == "obstacle")
             {
                 powerSlider.value -= 2;
                 MoveRight.thrust -= 2;
                 Debug.Log(MoveRight.thrust);
+                sounds [collisionSound].Play ();
             }
             if (other.gameObject.tag == "boost")
             {
                 powerSlider.value += 2;
                 MoveRight.thrust += 2;
+                sounds [speedBoostSound].Play ();
             }
         }
         if(IsMaxPower)
         {
             if (other.gameObject.CompareTag("Finish"))
             {
-                SceneManager.LoadScene(1);
+                if (SceneManager.GetActiveScene().buildIndex == 2) {
+                    SceneManager.LoadScene(0); // Back to main menu
+                }
+                else {
+                    SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 1);
+                }
             }
             if (other.gameObject.CompareTag("obstacle"))
             {
                 Destroy(other.gameObject);
+                sounds [collisionSound].Play ();
                 score++;
             }
            

@@ -32,7 +32,7 @@ public class Spawner : MonoBehaviour {
                 Instantiate(list[0], spawnPosition, spawnRotation);
             }
             else
-                Instantiate(list[Random.Range(1,3)], spawnPosition, spawnRotation);
+                Instantiate(list[Random.Range(1,list.Length)], spawnPosition, spawnRotation);
             yield return new WaitForSeconds(Random.Range(minSpawnTime, maxSpawnTime));
         }
     }

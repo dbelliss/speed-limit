@@ -20,7 +20,7 @@ public class MoveRight : MonoBehaviour {
 
 
 		cam.orthographicSize = 5.0f + (rb.velocity.x / 10f);
-		print (rb.velocity.x);
+//		print (rb.velocity.x);
 
 	}
     IEnumerator addForce()
